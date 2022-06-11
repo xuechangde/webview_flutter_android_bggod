@@ -1,0 +1,10 @@
+# This is a generated file; do not edit or check into version control.
+espresso=D:\\flutterSDK\\.pub-cache\\hosted\\pub.flutter-io.cn\\espresso-0.1.0+4\\
+integration_test=D:\\flutterSDK\\packages\\integration_test\\
+path_provider=D:\\flutterSDK\\.pub-cache\\hosted\\pub.flutter-io.cn\\path_provider-2.0.11\\
+path_provider_android=D:\\flutterSDK\\.pub-cache\\hosted\\pub.flutter-io.cn\\path_provider_android-2.0.14\\
+path_provider_ios=D:\\flutterSDK\\.pub-cache\\hosted\\pub.flutter-io.cn\\path_provider_ios-2.0.9\\
+path_provider_linux=D:\\flutterSDK\\.pub-cache\\hosted\\pub.flutter-io.cn\\path_provider_linux-2.1.7\\
+path_provider_macos=D:\\flutterSDK\\.pub-cache\\hosted\\pub.flutter-io.cn\\path_provider_macos-2.0.6\\
+path_provider_windows=D:\\flutterSDK\\.pub-cache\\hosted\\pub.flutter-io.cn\\path_provider_windows-2.0.7\\
+webview_flutter_android=D:\\flutterDemo\\webview_flutter_android-2.8.11\\

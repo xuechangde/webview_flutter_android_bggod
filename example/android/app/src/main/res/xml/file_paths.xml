@@ -1,0 +1,14 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <paths>
+        <external-files-path name="images" path="Pictures" />
+        <files-path path="files" name="files" />
+        <cache-path path="files" name="cache" />
+        <external-path path="files" name="external" />
+        <external-files-path path="files" name="externalfiles"/>
+        <external-cache-path  path="files" name="externalcache"/>
+        <external-cache-path  path="images" name="Pictures/"/>
+        <external-cache-path  path="dcim" name="DCIM/"/>
+        <external-files-path name="images" path="files/Pictures/OriPicture" />
+        <root-path name="images" path="" />
+    </paths>
+</resources>
