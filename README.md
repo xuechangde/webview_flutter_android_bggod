@@ -1,6 +1,7 @@
 # webview\_flutter\_android
 
 The Android implementation of [`webview_flutter`][1].
+flutter webview_flutter官方插件修改其中的webview_flutter_android插件，使其支持H5图片或文件选择
 
 ## Usage
 
